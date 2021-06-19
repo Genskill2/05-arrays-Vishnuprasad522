@@ -103,4 +103,4 @@ int factors(int number, int ret[])
        ret[j]=number;
    }
   return count;
-
+}
